@@ -1,0 +1,2 @@
+rootProject.name='Social Pool'
+include ':app'
